@@ -115,3 +115,7 @@ You might want to use [Index State Management (ILM)](https://opensearch.org/docs
 - Alerting plugin (free)
 - Allows you to [perform SQL queries against ElasticSearch](https://opendistro.github.io/for-elasticsearch-docs/docs/sql/)
 - Maintained by AWS and used for its cloud services
+
+## Further Reading
+
+- [GitOps vs GitHub Actions: Security-First](https://orthogonal.info/gitops-vs-github-actions-security-first-production/) — Security-focused comparison for container deployment workflows
